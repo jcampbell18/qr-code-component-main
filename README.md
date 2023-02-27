@@ -38,6 +38,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 4. Give classes to the elements, and reflect in CSS
 5. Write out CSS, and add breakpoint for mobile view
 6. Refactored CSS with DRY (Don't Repeat Yourself)
+7. Received feedback after submitting solution - made changes from the recomendations
+8. [Validated HTML](https://validator.w3.org/)
 
 ### Built with
 
