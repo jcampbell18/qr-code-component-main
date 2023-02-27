@@ -23,7 +23,7 @@ p {
     padding-top: 0.8em;
 }
 
-div.qr-container {
+main {
     width: 100%;
     max-width: 250px;
     background: white;
@@ -47,11 +47,11 @@ section.qr-text {
     align-items: center;
 }
 
-.attribution { 
-    font-size: 11px; text-align: center; 
+footer {
+    font-size: 11px; text-align: center;
 }
 
-.attribution a { 
+footer a { 
     color: hsl(228, 45%, 44%); 
 }
 
