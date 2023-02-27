@@ -1,4 +1,5 @@
 body,
+footer,
 h1,
 p {
     text-align: center;
@@ -48,7 +49,8 @@ section.qr-text {
 }
 
 footer {
-    font-size: 11px; text-align: center;
+    font-size: 0.6875em; 
+    text-align: center;
 }
 
 footer a { 
